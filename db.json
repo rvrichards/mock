@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 42,
+      "category": "bookbinding",
+      "title": "Non-Adhesive Binding: 1",
+      "description": "The book is number one a series of three by Keith Smith on non-adhesive binding.",
+      "location": "Amazon",
+      "date": "January 1, 1999",
+      "time": "12:00",
+      "organizer": "Canadian Bookbinding Guild"
+    },
+    {
+      "id": 666,
+      "category": "calligraphy",
+      "title": "The Bible of Illuminated Letters: A Treasury of Decorative Calligraphy",
+      "description": "The ancient art of illuminating manuscripts,  recreating twelve illuminated alphabets.",
+      "location": "Abe Books",
+      "date": "January 1, 2006",
+      "time": "10:00",
+      "organizer": "Calligraphy Guild of Vancouver Island"
+    },
+    {
+      "id": 888,
+      "category": "glass blowing",
+      "title": "Glassblowing: An Introduction to Solid and Blown Glass Sculpturing",
+      "description": "This is a classic and must be owned by all who are doing or considering glass-working. ",
+      "location": "Red Deer Collage",
+      "date": "November 1, 1989",
+      "time": "17:00",
+      "organizer": "Summer Art Series"
+    }
+  ]
+}
